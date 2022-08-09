@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/minihooks-react/static/css/main.cc097340.css",
-    "main.js": "/github.io/minihooks-react/static/js/main.f8ef65ce.js",
-    "index.html": "/github.io/minihooks-react/index.html",
-    "main.cc097340.css.map": "/github.io/minihooks-react/static/css/main.cc097340.css.map",
-    "main.f8ef65ce.js.map": "/github.io/minihooks-react/static/js/main.f8ef65ce.js.map"
+    "main.css": "/minihooks-react/static/css/main.cc097340.css",
+    "main.js": "/minihooks-react/static/js/main.f8ef65ce.js",
+    "index.html": "/minihooks-react/index.html",
+    "main.cc097340.css.map": "/minihooks-react/static/css/main.cc097340.css.map",
+    "main.f8ef65ce.js.map": "/minihooks-react/static/js/main.f8ef65ce.js.map"
   },
   "entrypoints": [
     "static/css/main.cc097340.css",
